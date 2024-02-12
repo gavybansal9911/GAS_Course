@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Aura.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Aura.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AuraEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Aura">
+      <UniqueIdentifier>{171ED4C2-8F97-3FFE-B0B6-01D55C378E24}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Aura\Aura.Build.cs">
+      <Filter>Source\Aura</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Aura\Aura.cpp">
+      <Filter>Source\Aura</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Aura\Aura.h">
+      <Filter>Source\Aura</Filter>
+    </ClInclude>
+    <Filter Include="Source\Aura\Private">
+      <UniqueIdentifier>{614644D7-6FA7-303B-9CB5-F9579003D315}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Aura\Private\Characters">
+      <UniqueIdentifier>{FB0A0241-9E3F-3F2C-A169-A0EECEBC48D1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Aura\Private\Characters\AuraCharacter.cpp">
+      <Filter>Source\Aura\Private\Characters</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Aura\Private\Characters\AuraCharacterBase.cpp">
+      <Filter>Source\Aura\Private\Characters</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Aura\Private\Characters\AuraEnemy.cpp">
+      <Filter>Source\Aura\Private\Characters</Filter>
+    </ClCompile>
+    <Filter Include="Source\Aura\Private\Player">
+      <UniqueIdentifier>{0384C61C-70FC-34C5-AA42-3FFE81EA736E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Aura\Private\Player\AuraPlayerController.cpp">
+      <Filter>Source\Aura\Private\Player</Filter>
+    </ClCompile>
+    <Filter Include="Source\Aura\Public">
+      <UniqueIdentifier>{812D085E-218E-32A1-B6D9-A817B3D0072A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Aura\Public\Characters">
+      <UniqueIdentifier>{AD8729C7-3645-3AC0-A71E-B3F61769CE03}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Aura\Public\Characters\AuraCharacter.h">
+      <Filter>Source\Aura\Public\Characters</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Aura\Public\Characters\AuraCharacterBase.h">
+      <Filter>Source\Aura\Public\Characters</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Aura\Public\Characters\AuraEnemy.h">
+      <Filter>Source\Aura\Public\Characters</Filter>
+    </ClInclude>
+    <Filter Include="Source\Aura\Public\Player">
+      <UniqueIdentifier>{92C9D14F-9ACD-3BE9-BD79-820E68D968CD}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Aura\Public\Player\AuraPlayerController.h">
+      <Filter>Source\Aura\Public\Player</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

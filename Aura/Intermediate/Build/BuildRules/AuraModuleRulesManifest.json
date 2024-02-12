@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\gavyb\\OneDrive\\Desktop\\Tutorials\\Unreal\\GAS_Course\\Aura\\Source\\Aura\\Aura.Build.cs",
+		"C:\\Users\\gavyb\\OneDrive\\Desktop\\Tutorials\\Unreal\\GAS_Course\\Aura\\Source\\Aura.Target.cs",
+		"C:\\Users\\gavyb\\OneDrive\\Desktop\\Tutorials\\Unreal\\GAS_Course\\Aura\\Source\\AuraEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
