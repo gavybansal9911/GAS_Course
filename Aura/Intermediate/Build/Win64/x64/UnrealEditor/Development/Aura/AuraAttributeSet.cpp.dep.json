@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\gavyb\\onedrive\\desktop\\tutorials\\unreal\\gas_course\\aura\\source\\aura\\private\\abilitysystem\\auraattributeset.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\gavyb\\onedrive\\desktop\\tutorials\\unreal\\gas_course\\aura\\intermediate\\build\\win64\\x64\\auraeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\gavyb\\onedrive\\desktop\\tutorials\\unreal\\gas_course\\aura\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\aura\\definitions.aura.h",
+            "c:\\users\\gavyb\\onedrive\\desktop\\tutorials\\unreal\\gas_course\\aura\\source\\aura\\public\\abilitysystem\\auraattributeset.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\runtime\\gameplayabilities\\source\\gameplayabilities\\public\\attributeset.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\runtime\\gameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\attributeset.generated.h",
+            "c:\\users\\gavyb\\onedrive\\desktop\\tutorials\\unreal\\gas_course\\aura\\intermediate\\build\\win64\\unrealeditor\\inc\\aura\\uht\\auraattributeset.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
