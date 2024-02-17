@@ -14,7 +14,13 @@
 				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/Characters/Goblin_Spear/BP_Goblin_Spear.uasset",
 				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/Characters/Goblin_Slingshot/BP_Goblin_Slingshot.uasset",
 				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/Player/BP_AuraPlayerState.uasset",
-				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/Actors/BP_HealthPotion.uasset"
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/Actors/BP_HealthPotion.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/UI/ProgressBars/WBP_GlobeProgressBar.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/UI/ProgressBars/WBP_HealthGlobe.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/UI/ProgressBars/WBP_ManaGlobe.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/UI/Overlay/WBP_Overlay.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/UI/HUD/BP_AuraHUD.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/UI/WidgetControllers/BP_OverlayWidgetController.uasset"
 			]
 		}
 	]
