@@ -20,7 +20,21 @@
 				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/UI/ProgressBars/WBP_ManaGlobe.uasset",
 				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/UI/Overlay/WBP_Overlay.uasset",
 				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/UI/HUD/BP_AuraHUD.uasset",
-				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/UI/WidgetControllers/BP_OverlayWidgetController.uasset"
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/UI/WidgetControllers/BP_OverlayWidgetController.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/Actors/Potions/BP_HealthPotion.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/Actors/Potions/GE_HealthPotion.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/Actors/Potions/GE_ManaPotion.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/Actors/Potions/BP_ManaPotion.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/Actors/Crystals/GE_HealthCrystal.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/Actors/Crystals/BP_HealthCrystal.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/Actors/Crystals/GE_ManaCrystal.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/Actors/Crystals/BP_ManaCrystal.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/Actors/Areas/BP_FireArea.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/Actors/Areas/GE_FireArea.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/Actors/Potions/CT_HealthPotion.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/Actors/Potions/CT_Potion.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/Actors/Crystals/GE_ManaPotion1.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/Actors/Crystals/BP_HealthPotion1.uasset"
 			]
 		}
 	]
