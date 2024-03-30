@@ -1,5 +1,43 @@
 {
 	"RemapUnityFiles": 
 	{
+		"Module.Aura.cpp.obj": [
+			"AuraAbilitySystemComponent.gen.cpp.obj",
+			"AuraEffectActor.gen.cpp.obj",
+			"AuraGameModeBase.gen.cpp.obj",
+			"AuraHUD.gen.cpp.obj",
+			"AuraPlayerController.gen.cpp.obj",
+			"AuraUserWidget.gen.cpp.obj",
+			"AuraWidgetController.gen.cpp.obj",
+			"EnemyInterface.gen.cpp.obj",
+			"OverlayWidgetController.gen.cpp.obj",
+			"Aura.cpp.obj",
+			"AuraAbilitySystemComponent.cpp.obj",
+			"AuraEffectActor.cpp.obj",
+			"AuraGameModeBase.cpp.obj",
+			"EnemyInterface.cpp.obj",
+			"AuraHUD.cpp.obj",
+			"AuraWidgetController.cpp.obj",
+			"OverlayWidgetController.cpp.obj",
+			"AuraUserWidget.cpp.obj",
+			"Aura.init.gen.cpp.obj",
+			"AuraAttributeSet.gen.cpp.obj",
+			"AuraCharacter.gen.cpp.obj",
+			"AuraCharacterBase.gen.cpp.obj",
+			"AuraEnemy.gen.cpp.obj",
+			"AuraPlayerState.gen.cpp.obj",
+			"CombatInterface.gen.cpp.obj",
+			"MMC_MaxHealth.gen.cpp.obj",
+			"MMC_MaxMana.gen.cpp.obj",
+			"AuraAttributeSet.cpp.obj",
+			"MMC_MaxHealth.cpp.obj",
+			"MMC_MaxMana.cpp.obj",
+			"AuraCharacter.cpp.obj",
+			"AuraCharacterBase.cpp.obj",
+			"AuraEnemy.cpp.obj",
+			"CombatInterface.cpp.obj",
+			"AuraPlayerController.cpp.obj",
+			"AuraPlayerState.cpp.obj"
+		]
 	}
 }

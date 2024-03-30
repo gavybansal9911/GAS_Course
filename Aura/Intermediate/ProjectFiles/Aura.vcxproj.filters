@@ -24,6 +24,9 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
@@ -42,6 +45,30 @@
     <Filter Include="Source\Aura\Private">
       <UniqueIdentifier>{614644D7-6FA7-303B-9CB5-F9579003D315}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source\Aura\Private\AbilitySystem">
+      <UniqueIdentifier>{E12B047D-3563-3B0F-A31F-6CA534A3F38C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Aura\Private\AbilitySystem\AuraAbilitySystemComponent.cpp">
+      <Filter>Source\Aura\Private\AbilitySystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Aura\Private\AbilitySystem\AuraAttributeSet.cpp">
+      <Filter>Source\Aura\Private\AbilitySystem</Filter>
+    </ClCompile>
+    <Filter Include="Source\Aura\Private\AbilitySystem\MMC">
+      <UniqueIdentifier>{23B4D7DA-4E27-312D-8B2F-4FE957DB37D4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Aura\Private\AbilitySystem\MMC\MMC_MaxHealth.cpp">
+      <Filter>Source\Aura\Private\AbilitySystem\MMC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Aura\Private\AbilitySystem\MMC\MMC_MaxMana.cpp">
+      <Filter>Source\Aura\Private\AbilitySystem\MMC</Filter>
+    </ClCompile>
+    <Filter Include="Source\Aura\Private\Actors">
+      <UniqueIdentifier>{12DEA544-C7D9-3863-AF34-70D3B48D7D79}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Aura\Private\Actors\AuraEffectActor.cpp">
+      <Filter>Source\Aura\Private\Actors</Filter>
+    </ClCompile>
     <Filter Include="Source\Aura\Private\Characters">
       <UniqueIdentifier>{FB0A0241-9E3F-3F2C-A169-A0EECEBC48D1}</UniqueIdentifier>
     </Filter>
@@ -54,15 +81,81 @@
     <ClCompile Include="..\..\Source\Aura\Private\Characters\AuraEnemy.cpp">
       <Filter>Source\Aura\Private\Characters</Filter>
     </ClCompile>
+    <Filter Include="Source\Aura\Private\Game">
+      <UniqueIdentifier>{08D199A1-70C2-3BEB-A332-B90A816A4CF5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Aura\Private\Game\AuraGameModeBase.cpp">
+      <Filter>Source\Aura\Private\Game</Filter>
+    </ClCompile>
+    <Filter Include="Source\Aura\Private\Interaction">
+      <UniqueIdentifier>{8600DADF-1C2F-3B4E-851E-5CF3B1B94879}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Aura\Private\Interaction\CombatInterface.cpp">
+      <Filter>Source\Aura\Private\Interaction</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Aura\Private\Interaction\EnemyInterface.cpp">
+      <Filter>Source\Aura\Private\Interaction</Filter>
+    </ClCompile>
     <Filter Include="Source\Aura\Private\Player">
       <UniqueIdentifier>{0384C61C-70FC-34C5-AA42-3FFE81EA736E}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Aura\Private\Player\AuraPlayerController.cpp">
       <Filter>Source\Aura\Private\Player</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\Aura\Private\Player\AuraPlayerState.cpp">
+      <Filter>Source\Aura\Private\Player</Filter>
+    </ClCompile>
+    <Filter Include="Source\Aura\Private\UI">
+      <UniqueIdentifier>{F9372D0D-4A97-3565-B84C-896EF7901031}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Aura\Private\UI\HUD">
+      <UniqueIdentifier>{095051DB-6234-3470-8A21-12B7360D4FBB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Aura\Private\UI\HUD\AuraHUD.cpp">
+      <Filter>Source\Aura\Private\UI\HUD</Filter>
+    </ClCompile>
+    <Filter Include="Source\Aura\Private\UI\WidgetControllers">
+      <UniqueIdentifier>{DE6844B5-6A4E-3B25-9F42-31E1030C59EB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Aura\Private\UI\WidgetControllers\AuraWidgetController.cpp">
+      <Filter>Source\Aura\Private\UI\WidgetControllers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Aura\Private\UI\WidgetControllers\OverlayWidgetController.cpp">
+      <Filter>Source\Aura\Private\UI\WidgetControllers</Filter>
+    </ClCompile>
+    <Filter Include="Source\Aura\Private\UI\Widgets">
+      <UniqueIdentifier>{A12C3688-B1A7-3E90-BEC9-1301CBD51E70}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Aura\Private\UI\Widgets\AuraUserWidget.cpp">
+      <Filter>Source\Aura\Private\UI\Widgets</Filter>
+    </ClCompile>
     <Filter Include="Source\Aura\Public">
       <UniqueIdentifier>{812D085E-218E-32A1-B6D9-A817B3D0072A}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source\Aura\Public\AbilitySystem">
+      <UniqueIdentifier>{E77883A5-D48A-34F9-8FEA-EA980135BDF7}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Aura\Public\AbilitySystem\AuraAbilitySystemComponent.h">
+      <Filter>Source\Aura\Public\AbilitySystem</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Aura\Public\AbilitySystem\AuraAttributeSet.h">
+      <Filter>Source\Aura\Public\AbilitySystem</Filter>
+    </ClInclude>
+    <Filter Include="Source\Aura\Public\AbilitySystem\MMC">
+      <UniqueIdentifier>{A24E1B5D-23FF-36AE-8C96-3CF06109FB57}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Aura\Public\AbilitySystem\MMC\MMC_MaxHealth.h">
+      <Filter>Source\Aura\Public\AbilitySystem\MMC</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Aura\Public\AbilitySystem\MMC\MMC_MaxMana.h">
+      <Filter>Source\Aura\Public\AbilitySystem\MMC</Filter>
+    </ClInclude>
+    <Filter Include="Source\Aura\Public\Actors">
+      <UniqueIdentifier>{CBDCAE54-910B-380D-A904-C1BB237AA87D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Aura\Public\Actors\AuraEffectActor.h">
+      <Filter>Source\Aura\Public\Actors</Filter>
+    </ClInclude>
     <Filter Include="Source\Aura\Public\Characters">
       <UniqueIdentifier>{AD8729C7-3645-3AC0-A71E-B3F61769CE03}</UniqueIdentifier>
     </Filter>
@@ -75,11 +168,53 @@
     <ClInclude Include="..\..\Source\Aura\Public\Characters\AuraEnemy.h">
       <Filter>Source\Aura\Public\Characters</Filter>
     </ClInclude>
+    <Filter Include="Source\Aura\Public\Game">
+      <UniqueIdentifier>{DCB2C027-DDED-3CDF-90B1-320D9F1C597B}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Aura\Public\Game\AuraGameModeBase.h">
+      <Filter>Source\Aura\Public\Game</Filter>
+    </ClInclude>
+    <Filter Include="Source\Aura\Public\Interaction">
+      <UniqueIdentifier>{AC69F4E0-FE2C-3C00-9744-FF5ECD46407C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Aura\Public\Interaction\CombatInterface.h">
+      <Filter>Source\Aura\Public\Interaction</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Aura\Public\Interaction\EnemyInterface.h">
+      <Filter>Source\Aura\Public\Interaction</Filter>
+    </ClInclude>
     <Filter Include="Source\Aura\Public\Player">
       <UniqueIdentifier>{92C9D14F-9ACD-3BE9-BD79-820E68D968CD}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\Aura\Public\Player\AuraPlayerController.h">
       <Filter>Source\Aura\Public\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Aura\Public\Player\AuraPlayerState.h">
+      <Filter>Source\Aura\Public\Player</Filter>
+    </ClInclude>
+    <Filter Include="Source\Aura\Public\UI">
+      <UniqueIdentifier>{8F425D6D-BDE7-3B81-8763-332C56914637}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Aura\Public\UI\HUD">
+      <UniqueIdentifier>{9E866B4B-78AE-3932-8E08-364DAD50A354}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Aura\Public\UI\HUD\AuraHUD.h">
+      <Filter>Source\Aura\Public\UI\HUD</Filter>
+    </ClInclude>
+    <Filter Include="Source\Aura\Public\UI\WidgetControllers">
+      <UniqueIdentifier>{2A541FD2-BFEE-3FBA-B79D-BC7F1F8C18A0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Aura\Public\UI\WidgetControllers\AuraWidgetController.h">
+      <Filter>Source\Aura\Public\UI\WidgetControllers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Aura\Public\UI\WidgetControllers\OverlayWidgetController.h">
+      <Filter>Source\Aura\Public\UI\WidgetControllers</Filter>
+    </ClInclude>
+    <Filter Include="Source\Aura\Public\UI\Widgets">
+      <UniqueIdentifier>{CC650AEA-B954-3499-9AE1-48F0970D37BD}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Aura\Public\UI\Widgets\AuraUserWidget.h">
+      <Filter>Source\Aura\Public\UI\Widgets</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

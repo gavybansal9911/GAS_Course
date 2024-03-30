@@ -22,10 +22,15 @@ public:
 	virtual void HighlightActor() override;
 	virtual void UnHighlightActor() override;
 	/* Enemy interface end */
+	
+	/* Combat interface begin */
+	virtual int32 GetPlayerLevel() override;
+	/* Combat interface end */
 
 protected:
 	virtual void BeginPlay() override;
-
-private:
 	virtual void InitAbilityActorInfo() override;
+
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Character Class Defaults")
+	int32 Level = 1;
 };
