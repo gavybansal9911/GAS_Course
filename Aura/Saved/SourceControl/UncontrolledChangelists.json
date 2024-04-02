@@ -5,7 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/Characters/Aura/BP_AuraCharacter.uasset"
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/Characters/Aura/BP_AuraCharacter.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/Maps/StartupMap.umap",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/UI/AttributeMenu/WBP_FramedValue.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/UI/AttributeMenu/WBP_TextValueRow.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/UI/AttributeMenu/WBP_TextValueButtonRow.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/UI/AttributeMenu/WBP_AttributeMenu.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/UI/Buttons/WBP_Button.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/UI/Buttons/WBP_WideButton.uasset",
+				"C:/Users/gavyb/OneDrive/Desktop/Tutorials/Unreal/GAS_Course/Aura/Content/_Main/Blueprints/UI/Overlay/WBP_Overlay.uasset"
 			]
 		}
 	]
